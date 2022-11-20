@@ -1,6 +1,6 @@
 # Localization-App
 
-Localization apps are very important nowdays, they tend to follow certain algorithms and APIs to operate. We aimed during our work to develop a simple app that mimic the way of they work. and we displayed our gui on both a website and a mobile app to wich the user can choose from.
+Localization apps are very important nowdays, they tend to follow certain algorithms and APIs to operate. We aimed during our work to develop a simple app that mimic the way of they work and applied it on a map to one of our school buliding's floor. and we displayed our gui on both a website and a mobile app to wich the user can choose from.
 ![img](Images/Final_Map.png)
 In our development, we had to approaches:
 
