@@ -17,7 +17,7 @@ The downSide: was that the signals received were destorted due to walls and obst
 
 ### Machine_learning
 
-We basicly divided the labarotary grounds into different sections (ie. clasifiers) and labeled them each with its own number.
+We basically divided the labarotary grounds into different sections (ie. clasifiers) and labeled them each with its own number.
 
 ![img](Images/MGrid_Map.png)
 
